@@ -1,0 +1,257 @@
+html body{
+  margin:0;
+  padding: 0;
+}
+body{
+  background-color: #353535;
+}
+#nav1{
+  background-color: #000000;
+  border: none;
+}
+#nav1 a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: orange;
+  font-weight: bold;
+  padding-right: 90px;
+  font-size: 15px;
+  outline: none;
+}
+#toTop{
+  color: purple;
+  right : 1%;
+  top: 90%;
+  position: fixed;
+  z-index: 100;
+  overflow: hidden;
+  text-decoration: none;
+  outline: none;
+  display: none;
+}
+#home{
+  margin-top: 50px;
+}
+#home p, #about p{
+  text-align: center;
+  font-size: 1.5em;
+  color: #FFF;
+}
+#title1, #title2, #title3{
+  font-style: italic;
+  text-align: center;
+  color: #000000;
+}
+#portfolio{
+  background-color: orange;
+  width: 50%;
+}
+.bton{
+  margin-left: 16%;
+}
+.quit, .quit2{
+  left: 73%;
+  color: red;
+  position: absolute;
+  cursor: pointer;
+}
+.quit2{
+  left: 45%;
+  margin-top: 0.2%;
+  color: #FFF;
+}
+#Affichage img:nth-child(1), #Affichage img:nth-child(5), #TOUT img:nth-child(1), #TOUT img:nth-child(5), #PRO img:nth-child(1), #PRO img:nth-child(5), #PERSO img:nth-child(1){
+  margin-left: 8%;
+}
+#Affichage img, #TOUT img, #PRO img, #PERSO img{
+  width: 20%;
+  height: 230px;
+  padding: 2px;
+  margin-top: 10px;
+}
+#HTMLCSS, #JS, #BootStrap, #PHPSQL{
+  margin-top: 10px;
+}
+#HTMLCSS img, #JS img, #BootStrap img, #PHPSQL img{
+  width: 35%;
+  height: 230px;
+  margin-left: 100px;
+  margin-bottom: 10px;
+}
+#HTMLCSS img:nth-child(1), #JS img:nth-child(1), #BootStrap img:nth-child(1), #PHPSQL img:nth-child(1){
+  display: block;
+  margin-left: 30%;
+  border: 1px solid black;
+  padding: 0;
+}
+#contain{
+  background-color: orange;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+#contain input, #contain textarea{
+  margin-left: 24%;
+  width: 75%;
+}
+#contact{
+  width: 40%;
+  margin-left: 5%;
+}
+#adress{
+  color: #FFFFFF;
+}
+#adress li{
+  padding: 2px;
+  list-style-type: none;
+}
+#divnoire{
+  border: 1px solid #222222;
+  height: 220px;
+  width: 300px;
+  margin-left: 26%;
+  margin-top: 4px;
+}
+#divnoire iframe{
+  width: 100%;
+  height: 100%;
+}
+#sn{
+  position: fixed;
+  top: 42%;
+  left: 5px;
+}
+#sn a{
+  display: block;
+  color: #FFF;
+  padding: 2px;
+  outline: none;
+}
+#footer{
+  background-color: #000000;
+  padding: 10px;
+  color: #FFF;
+}
+#ps{
+  font-style: italic;
+}
+#footer p{
+  margin: 0;
+  padding: 2px;
+}
+/* Responsive version tablette */
+@media screen and (max-width: 600px){
+  #portfolio{
+    width: 70%;
+  }
+  .bton{
+    margin-left: 12%;
+  }
+  .quit{
+    left: 80%;
+  }
+  .quit2{
+    left: 42%;
+  }
+  #Affichage img, #TOUT img, #PRO img, #PERSO img{
+    height: 100px;
+  }
+  #HTMLCSS img, #JS img, #BootStrap img, #PHPSQL img{
+    margin-left: 60px;
+    height: 150px;
+  }
+  #contain input, #contain textarea{
+    margin-left: 55%;
+    width: 140%;
+  }
+  #sub1{
+    margin-left: 162%;
+  }
+  #divnoire{
+    margin-left: 25%;
+  }
+}
+@media screen and (min-width: 640px) and (max-width: 800px){
+  #portfolio{
+    width: 81%;
+  }
+  .bton{
+    margin-left: 18%;
+  }
+  #Affichage img, #TOUT img, #PRO img, #PERSO img{
+    height: 100px;
+  }
+  .quit{
+    left: 86%;
+  }
+  #HTMLCSS img, #JS img, #BootStrap img, #PHPSQL img{
+    margin-left: 80px;
+    height: 150px;
+  }
+  #contain input, #contain textarea{
+    margin-left: 15%;
+    width: 90%;
+  }
+  #sub1{
+    margin-left: 81%;
+  }
+  #divnoire{
+    margin-left: 10%;
+  }
+}
+/*Responsive version portable*/
+@media screen and (max-width: 320px){
+  #portfolio{
+    width: 92%;
+  }
+  .bton{
+    margin-left: 8%;
+  }
+  #Affichage img, #TOUT img, #PRO img, #PERSO img{
+    height: 60px;
+  }
+  #HTMLCSS img, #JS img, #BootStrap img, #PHPSQL img{
+    margin-left: 34px;
+    height: 80px;
+  }
+  #HTMLCSS img:nth-child(1), #JS img:nth-child(1), #BootStrap img:nth-child(1), #PHPSQL img:nth-child(1){
+    margin-left: 32%;
+  }
+  .quit{
+    left: 88%;
+  }
+  .quit2{
+    left: 38%;
+  }
+  #contain input, #contain textarea{
+    margin-left: 30%;
+    width: 200%;
+  }
+  #divnoire{
+    margin-left: 6%;
+    width: 90%;
+  }
+}
+@media screen and (min-width: 321px) and (max-width: 480px){
+  .bton{
+    margin-left: 10%;
+  }
+  .quit{
+    left: 79%;
+  }
+  #HTMLCSS img:nth-child(1), #JS img:nth-child(1), #BootStrap img:nth-child(1), #PHPSQL img:nth-child(1){
+    margin-left: 34%;
+  }
+  #HTMLCSS img, #JS img, #BootStrap img, #PHPSQL img{
+    margin-left: 40px;
+    height: 80px;
+  }
+  .quit2{
+    left: 43%;
+  }
+  #sub1{
+    margin-left: 153%;
+  }
+  #divnoire{
+    margin-left: 17%;
+  }
+}
