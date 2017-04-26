@@ -188,7 +188,7 @@
             <input id="email" name="email" type="text" placeholder="E-mail" class="form-control" onblur="verifMail(this)" autocomplete="off">
           </div>
           <div class="form-group">
-            <textarea class="form-control" id="message" name="message" placeholder="Message..." rows="5" autocomplete="off"></textarea>
+            <textarea class="form-control" id="message" name="message" placeholder="Formulaire non fonctionnel pour l'envoi des mails ! ..." rows="5" autocomplete="off"></textarea>
           </div>
           <div class="form-group">
             <div class="text-right">
@@ -218,7 +218,7 @@
       <div class="row">
         <div class="text-center" id="footer">
           <footer>
-            <p>&copy Christopher Dachicourt</p>
+            <p>&copy Christopher Dachicourt - 2017</p>
             <p id="ps">Post-scriptum : Vous pouvez retourner en haut de page via le bouton fixé (flèche à droite)</p>
           </footer>
         </div>

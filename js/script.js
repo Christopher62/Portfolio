@@ -167,7 +167,7 @@ $(function(){
       var subjectOk = verifSubject(f.subject);
       var mailOk = verifMail(f.email);
       if(nameOk && subjectOk && mailOk){
-        alert("Votre message a bien été envoyé !");
+        alert("Votre message a bien été envoyé ! / Rappel : Formulaire non fonctionnel !");
         return true;
       }else{
         alert("Veuillez vérfier les champs de saisies en bordure rouge !");
