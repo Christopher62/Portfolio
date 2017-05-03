@@ -74,7 +74,16 @@
     </div>
     <div class="container-fluid" id="PRO">
       <div class="row">
-        <p style="color:#FFF; text-align:center">projets pendant Simplon : A Venir ! En cours : site-vitrine pour la boulangerie Déjeuner Minute...</p>
+        <img src="images/PRO/AEICW1.png">
+        <img src="images/PRO/AEICW2.png">
+        <img src="images/PRO/AEICW3.png">
+        <img src="images/PRO/AEICW4.png">
+        <p style="color:#FFF; text-align:center">Projet pour l'Asso AEICW (Stage) ! Image(s) qui apparaît au "clic" & qui redirige vers le site au "double-clique" !</p>
+        <img src="images/PRO/.png">
+        <img src="images/PRO/.png">
+        <img src="images/PRO/.png">
+        <img src="images/PRO/.png">
+        <p style="color:#FFF; text-align:center">A Venir ! En cours : site-vitrine pour la boulangerie Déjeuner Minute...</p>
       </div>
     </div>
     <div class="container-fluid" id="PERSO" style="cursor:pointer">
@@ -94,7 +103,6 @@
         <img src="images/HTML-CSS/ex5part3.png">
         <img src="images/HTML-CSS/ex5part4.png">
         <img src="images/HTML-CSS/maquette.png">
-        <img src="images/HTML-CSS/visageessai.png">
         <img src="images/HTML-CSS/image1.png">
         <img src="images/HTML-CSS/image2.png">
         <img src="images/HTML-CSS/image3.png">

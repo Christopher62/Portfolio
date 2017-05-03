@@ -60,7 +60,7 @@ body{
   margin-top: 0.2%;
   color: #FFF;
 }
-#Affichage img:nth-child(1), #Affichage img:nth-child(5), #TOUT img:nth-child(1), #TOUT img:nth-child(5), #PRO img:nth-child(1), #PRO img:nth-child(5), #PERSO img:nth-child(1){
+#Affichage img:nth-child(1), #Affichage img:nth-child(5), #TOUT img:nth-child(1), #TOUT img:nth-child(5), #PRO img:nth-child(1), #PRO img:nth-child(6), #PERSO img:nth-child(1){
   margin-left: 8%;
 }
 #Affichage img, #TOUT img, #PRO img, #PERSO img{
@@ -82,6 +82,11 @@ body{
   display: block;
   margin-left: 30%;
   border: 1px solid black;
+  padding: 0;
+}
+#HTMLCSS img:nth-child(11){
+  display: block;
+  margin-left: 30%;
   padding: 0;
 }
 #contain{
@@ -204,7 +209,7 @@ body{
     width: 92%;
   }
   .bton{
-    margin-left: 8%;
+    margin-left: 6%;
   }
   #Affichage img, #TOUT img, #PRO img, #PERSO img{
     height: 60px;
@@ -233,7 +238,7 @@ body{
 }
 @media screen and (min-width: 321px) and (max-width: 480px){
   .bton{
-    margin-left: 10%;
+    margin-left: 9%;
   }
   .quit{
     left: 79%;
