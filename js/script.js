@@ -17,6 +17,8 @@ $(function(){
     $("#TOUT").hide();
     $("#toutbtn").click(function(){
       $("#Affichage").fadeOut();
+      $("#PRO").fadeOut();
+      $("#PERSO").fadeOut();
       $("#TOUT").fadeIn();
       $(".quit").show();
     });
@@ -32,6 +34,8 @@ $(function(){
     $("#PRO").hide();
     $("#probtn").click(function(){
       $("#Affichage").fadeOut();
+	    $("#TOUT").fadeOut();
+	    $("#PERSO").fadeOut();
       $("#PRO").fadeIn();
       $(".quit").show();
     });
@@ -47,6 +51,8 @@ $(function(){
     $("#PERSO").hide();
     $("#persobtn").click(function(){
       $("#Affichage").fadeOut();
+      $("#TOUT").fadeOut();
+      $("#PRO").fadeOut();
       $("#PERSO").fadeIn();
       $(".quit").show();
     });

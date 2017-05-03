@@ -53,22 +53,22 @@
     </div>
     <div class="container-fluid" id="Affichage">
       <div class="row">
-        <img src="images/image1.png">
-        <img src="images/image2.png">
-        <img src="images/image3.png">
-        <img src="images/image4.png">
-        <img src="images/mot.png">
-        <img src="images/palindrome.png">
-        <img src="images/uploadsql.png">
-        <img src="images/uploadsql2.png">
+        <img src="images/HTML-CSS/image1.png">
+        <img src="images/HTML-CSS/image2.png">
+        <img src="images/HTML-CSS/image3.png">
+        <img src="images/HTML-CSS/image4.png">
+        <img src="images/JS/mot.png">
+        <img src="images/JS/palindrome.png">
+        <img src="images/PHP-SQL/uploadsql.png">
+        <img src="images/PHP-SQL/uploadsql2.png">
       </div>
     </div>
     <div class="container-fluid" id="TOUT">
       <div class="row">
-        <img src="images/image1.png">
-        <img src="images/palindrome.png">
-        <img src="images/Cap1.png">
-        <img src="images/uploadsql2.png">
+        <img src="images/HTML-CSS/image1.png">
+        <img src="images/JS/palindrome.png">
+        <img src="images/BootStrap/Cap1.png">
+        <img src="images/PHP-SQL/uploadsql2.png">
         <p style="color:#FFF; text-align:center">Challenge en HTML & JS, Crea en BootStrap, Exo en PHP !</p>
       </div>
     </div>
@@ -79,65 +79,65 @@
     </div>
     <div class="container-fluid" id="PERSO" style="cursor:pointer">
       <div class="row">
-        <img id="imgHTML" src="images/persohtml.png">
-        <img id="imgJS" src="images/persojs.png">
-        <img id="imgBS" src="images/persobs.png">
-        <img id="imgPHPSQL" src="images/persophpsql.png">
+        <img id="imgHTML" src="images/img-logo/persohtml.png">
+        <img id="imgJS" src="images/img-logo/persojs.png">
+        <img id="imgBS" src="images/img-logo/persobs.png">
+        <img id="imgPHPSQL" src="images/img-logo/persophpsql.png">
       </div>
     </div>
     <div class="container-fluid" id="HTMLCSS">
       <div class="row">
         <button type"button" class="btn btn-danger quit2">Retour</button>
-        <p><img src="images/img2.png"></p>
-        <img src="images/ex5part1.png">
-        <img src="images/ex5part2.png">
-        <img src="images/ex5part3.png">
-        <img src="images/ex5part4.png">
-        <img src="images/maquette.png">
-        <img src="images/visageessai.png">
-        <img src="images/image1.png">
-        <img src="images/image2.png">
-        <img src="images/image3.png">
-        <img src="images/image4.png">
+        <p><img src="images/img-logo/html-css.png"></p>
+        <img src="images/HTML-CSS/ex5part1.png">
+        <img src="images/HTML-CSS/ex5part2.png">
+        <img src="images/HTML-CSS/ex5part3.png">
+        <img src="images/HTML-CSS/ex5part4.png">
+        <img src="images/HTML-CSS/maquette.png">
+        <img src="images/HTML-CSS/visageessai.png">
+        <img src="images/HTML-CSS/image1.png">
+        <img src="images/HTML-CSS/image2.png">
+        <img src="images/HTML-CSS/image3.png">
+        <img src="images/HTML-CSS/image4.png">
         <p style="color:#FFF; text-align:center">Challenge & Exo en HTML / CSS !</p>
       </div>
     </div>
     <div class="container-fluid" id="JS">
       <div class="row">
         <button type"button" class="btn btn-danger quit2">Retour</button>
-        <p><img src="images/js-logo.png"></p>
-        <img src="images/chaud.png">
-        <img src="images/bravo.png">
-        <img src="images/mot.png">
-        <img src="images/palindrome.png">
+        <p><img src="images/img-logo/js-logo.png"></p>
+        <img src="images/JS/chaud.png">
+        <img src="images/JS/bravo.png">
+        <img src="images/JS/mot.png">
+        <img src="images/JS/palindrome.png">
         <p style="color:#FFF; text-align:center">Challenge & Exo en JavaScript !</p>
       </div>
     </div>
     <div class="container-fluid" id="BootStrap">
       <div class="row">
         <button type"button" class="btn btn-danger quit2">Retour</button>
-        <p><img src="images/bootstrap.png"></p>
-        <img src="images/Cap1.png">
-        <img src="images/Cap2.png">
-        <img src="images/Cap3.png">
-        <img src="images/Cap4.png">
-        <img src="images/Cap5.png">
-        <img src="images/Cap6.png">
-        <img src="images/Cap7.png">
-        <img src="images/Cap8.png">
-        <img src="images/Cap9.png">
-        <img src="images/Cap10.png">
+        <p><img src="images/img-logo/bootstrap.png"></p>
+        <img src="images/BootStrap/Cap1.png">
+        <img src="images/BootStrap/Cap2.png">
+        <img src="images/BootStrap/Cap3.png">
+        <img src="images/BootStrap/Cap4.png">
+        <img src="images/BootStrap/Cap5.png">
+        <img src="images/BootStrap/Cap6.png">
+        <img src="images/BootStrap/Cap7.png">
+        <img src="images/BootStrap/Cap8.png">
+        <img src="images/BootStrap/Cap9.png">
+        <img src="images/BootStrap/Cap10.png">
         <p style="color:#FFF; text-align:center">Reprod, crea, challenge... en BootStrap !</p>
       </div>
     </div>
     <div class="container-fluid" id="PHPSQL">
       <div class="row">
         <button type"button" class="btn btn-danger quit2">Retour</button>
-        <p><img src="images/php.png"></p>
-        <img src="images/phpexo3.png">
-        <img src="images/phpexo3_2.png">
-        <img src="images/uploadsql.png">
-        <img src="images/uploadsql2.png">
+        <p><img src="images/img-logo/php.png"></p>
+        <img src="images/PHP-SQL/phpexo3.png">
+        <img src="images/PHP-SQL/phpexo3_2.png">
+        <img src="images/PHP-SQL/uploadsql.png">
+        <img src="images/PHP-SQL/uploadsql2.png">
         <p style="color:#FFF; text-align:center">Exo en PHP !</p>
       </div>
     </div>
