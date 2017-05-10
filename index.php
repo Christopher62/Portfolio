@@ -226,7 +226,7 @@
       <div class="row">
         <div class="text-center" id="footer">
           <footer>
-            <p>&copy Christopher Dachicourt - 2017</p>
+            <p>&copy Christopher Dachicourt - 2017 - <a href="page/mentions.php">Mentions Légales</a></p>
             <p id="ps">Post-scriptum : Vous pouvez retourner en haut de page via le bouton fixé (flèche à droite)</p>
           </footer>
         </div>
