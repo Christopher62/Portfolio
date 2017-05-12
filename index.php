@@ -181,7 +181,7 @@
         </div>
         <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
           <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
-            <span style="color:black">Symfony (20%)</span>
+            <span style="color:black">Symfony 3 (20%)</span>
           </div>
         </div>
       </div>
