@@ -158,7 +158,7 @@
       <div class="row">
         <p>Bonjour, je m'appel Christopher, je suis âgé de 20 ans et je réside à Boulogne Sur Mer.</p>
         <p>Je suis atuellement en formation à Simplon.co Boulogne-Sur-Mer => formation de 6 mois dans le développement web.</p>
-        <p>Bilan des compétences (au 10/03/2017) :</p>
+        <p>Bilan des compétences :</p>
         <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
           <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
             <span style="color:black">HTML / CSS (60%)</span>
@@ -177,6 +177,11 @@
         <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
           <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
             <span style="color:black">PHP (35%)</span>
+          </div>
+        </div>
+        <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
+          <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+            <span style="color:black">Symfony (20%)</span>
           </div>
         </div>
       </div>
