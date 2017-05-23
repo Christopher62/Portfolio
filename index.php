@@ -156,8 +156,8 @@
     </div>
     <div class="container-fluid col-md-offset-0 col-md-12 col-xs-offset-1 col-xs-10" id="about">
       <div class="row">
-        <p>Bonjour, je m'appel Christopher, je suis âgé de 20 ans et je réside à Boulogne Sur Mer.</p>
-        <p>Je suis atuellement en formation à Simplon.co Boulogne-Sur-Mer => formation de 6 mois dans le développement web.</p>
+        <p>Bonjour, je m'appel Christopher, je suis âgé de 21 ans et je réside à Boulogne Sur Mer.</p>
+        <p>Je suis atuellement en formation à <a id="a_pres" href="http://simplon.co/" target="_blank">Simplon.co</a> Boulogne-Sur-Mer => formation de 6 mois dans le développement web.</p>
         <p>Bilan des compétences :</p>
         <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
           <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">

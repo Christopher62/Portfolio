@@ -89,6 +89,9 @@ body{
   margin-left: 30%;
   padding: 0;
 }
+#a_pres:hover{
+  text-decoration: none;
+}
 #contain{
   background-color: orange;
   padding-top: 20px;
