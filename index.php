@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="css/style.css">
   </head>
   <body>
-    <a href="#" class="fa fa-chevron-up fa-2x" aria-hidden="true" id="toTop"></a>
+    <a href="" class="fa fa-chevron-up fa-2x" aria-hidden="true" id="toTop"></a>
     <nav class="navbar navbar-default navbar-fixed-top" id="nav1">
     <div class="container-fluid">
       <div class="navbar-header">
@@ -21,7 +21,7 @@
       </div>
       <div class="collapse navbar-collapse" id="myNav1">
         <ul class="nav navbar-nav navbar-right col-md-9">
-          <li><a href="#">home</a></li>
+          <li><a href="">home</a></li>
           <li><a href="#title1">portfolio</a></li>
           <li><a href="#title2">about</a></li>
           <li><a href="#title3">contact</a></li>
