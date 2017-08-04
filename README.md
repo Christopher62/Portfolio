@@ -1,6 +1,7 @@
 # Portfolio
 
 (EN)
+
 Version 4 !
 
 contact form still in wip (mail impossible to send) !
@@ -13,6 +14,7 @@ UPDATE 04/08/2017 :
 - Added "Coming Soon" image -> empty images on part "PRO" !
 
 (FR)
+
 Version 4 !
 
 Le formulaire de contact est à revoir (mail impossible à envoyer) !
