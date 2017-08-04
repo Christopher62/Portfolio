@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -79,10 +79,10 @@
         <img src="images/PRO/AEICW3.png">
         <img src="images/PRO/AEICW4.png">
         <p style="color:#FFF; text-align:center">Projet pour l'Asso AEICW (Stage) ! Image(s) qui apparaît au "clic" & qui redirige vers le site au "double-clique" !</p>
-        <img src="images/PRO/.png">
-        <img src="images/PRO/.png">
-        <img src="images/PRO/.png">
-        <img src="images/PRO/.png">
+        <img src="images/PRO/CMS.png">
+        <img src="images/PRO/CMS.png">
+        <img src="images/PRO/CMS.png">
+        <img src="images/PRO/CMS.png">
         <p style="color:#FFF; text-align:center">A Venir ! En cours : site-vitrine pour la boulangerie Déjeuner Minute...</p>
       </div>
     </div>
