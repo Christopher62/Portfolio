@@ -21,7 +21,7 @@ Le formulaire de contact est à revoir (mail impossible à envoyer) !
 
 PROCHAINEMENT :
 - Suppression formulaire de contact
-- Vérification reponsive & CSS + index.php !
+- Vérification reponsive & fichiers CSS + index.php !
 
 MAJ 04/08/2017 :
 - Ajout d'une image "coming soon" -> images vides partie "PRO" !
