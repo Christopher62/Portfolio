@@ -33,13 +33,11 @@ body{
   margin-top: 50px;
 }
 #home p, #about p{
-  text-align: center;
   font-size: 1.5em;
   color: #FFF;
 }
 #title1, #title2, #title3{
   font-style: italic;
-  text-align: center;
   color: #000000;
 }
 #portfolio{

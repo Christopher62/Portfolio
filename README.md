@@ -4,12 +4,14 @@
 
 Version 4 !
 
-contact form still in wip (mail impossible to send) !
-
 COMING SOON :
-- Delete contact form 
+- Delete contact form (mail impossible to send)
 - Checking responsive and CSS + index.php files 
-- Progess bar style fix (display bug) 
+~~- Progess bar style fix (display bug)~~
+
+UPDATE 05/08/2017 :
+- Modified code in index.php file (div)
+- Progress bar's style (display bug) fixed 
 
 UPDATE 04/08/2017 : 
 - Added "Coming Soon" image -> empty images on part "PRO" 
@@ -18,12 +20,14 @@ UPDATE 04/08/2017 :
 
 Version 4 !
 
-Le formulaire de contact est à revoir (mail impossible à envoyer) !
-
 PROCHAINEMENT :
-- Suppression formulaire de contact
+- Suppression formulaire de contact (mail impossible à envoyer)
 - Vérification reponsive & fichiers CSS + index.php 
-- Résolution style des barres de progressions (bug d'affichage)  
+~~- Résolution style des barres de progressions (bug d'affichage)~~
+
+MAJ 05/08/2017 :
+- Code modifié dans le fichier index.php (div)
+- Bug d'affiche des barres de progression fixé 
 
 MAJ 04/08/2017 :
 - Ajout d'une image "coming soon" -> images vides partie "PRO" 

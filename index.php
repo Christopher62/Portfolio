@@ -29,10 +29,10 @@
       </div>
     </div>
   </nav>
-    <div class="container-fluid col-md-offset-0 col-md-12 col-xs-offset-1 col-xs-10">
+    <div class="container-fluid">
       <div class="row">
-        <div id="home">
-          <p>Bienvenue sur mon portfolio, il a été créé au cours de la formation Simplon (promo #2).</p>
+        <div class="col-xs-offset-1 col-xs-10 text-center" id="home">
+          <p>Bienvenue sur mon portfolio, il a été créé au cours de la formation Simplon de Boulogne-Sur-Mer (promo #2).</p>
           <p>Je suis apprenant en Développement Front-End.</p>
           <p>Bonne visite !</p>
         </div>
@@ -40,15 +40,19 @@
     </div>
     <div class="container-fluid">
       <div class="row">
-        <h1 id="title1">Portfolio :</h1>
+      	<div id="title1">
+      		<h1 class="text-center">Portfolio :</h1>
+      	</div>
       </div>
     </div>
-    <div class="container-fluid col-md-offset-3 col-sm-offset-1" id="portfolio">
+    <div class="container-fluid">
       <div class="row">
-        <input type="button" class="bton" value="TOUT" id="toutbtn">
-        <input type="button" class="bton" value="PRO" id="probtn">
-        <input type="button" class="bton" value="PERSO" id="persobtn">
-        <i class="fa fa-times-circle fa-2x quit" aria-hidden="true"></i>
+      	<div class="col-md-offset-3 col-sm-offset-1" id="portfolio">
+      		<input type="button" class="bton" value="TOUT" id="toutbtn">
+        	<input type="button" class="bton" value="PRO" id="probtn">
+        	<input type="button" class="bton" value="PERSO" id="persobtn">
+        	<i class="fa fa-times-circle fa-2x quit" aria-hidden="true"></i>
+      	</div>
       </div>
     </div>
     <div class="container-fluid" id="Affichage">
@@ -151,43 +155,55 @@
     </div>
     <div class="container-fluid">
       <div class="row">
-        <h1 id="title2">A propos de moi :</h1>
+      	<div id="title2">
+      		<h1 class="text-center">A propos de moi :</h1>
+      	</div>
       </div>
     </div>
-    <div class="container-fluid col-md-offset-0 col-md-12 col-xs-offset-1 col-xs-10" id="about">
+    <div class="container-fluid">
       <div class="row">
-        <p>Bonjour, je m'appel Christopher, je suis âgé de 21 ans et je réside à Boulogne Sur Mer.</p>
-        <p>Je suis atuellement en formation à <a id="a_pres" href="http://simplon.co/" target="_blank">Simplon.co</a> Boulogne-Sur-Mer => formation de 6 mois dans le développement web.</p>
-        <p>Bilan des compétences :</p>
-        <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
-          <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
-            <span style="color:black">HTML / CSS (60%)</span>
-          </div>
-        </div>
-        <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
-          <div class="progress-bar progress-bar-warning progress-bar-striped" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%">
-            <span style="color:black">JS (55%)</span>
-          </div>
-        </div>
-        <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
-          <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%">
-            <span style="color:black">BootStrap (65%)</span>
-          </div>
-        </div>
-        <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
-          <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
-            <span style="color:black">PHP (35%)</span>
-          </div>
-        </div>
-        <div class="progress col-md-offset-4 col-md-4 col-sm-offset-2 col-sm-8">
-          <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
-            <span style="color:black">Symfony 3 (20%)</span>
-          </div>
-        </div>
+      	<div class="col-xs-offset-1 col-xs-10 text-center" id="about">
+	        <p>Bonjour, je m'appel Christopher, je suis âgé de 21 ans et je réside à Boulogne Sur Mer.</p>
+	        <p>J'ai suivi une formation (Oct 2016 - Juin 2017) à <a id="a_pres" href="http://simplon.co/" target="_blank">Simplon.co</a> Boulogne-Sur-Mer => formation de 6 mois dans le développement web.</p>
+	        <p>Bilan des compétences :</p>
+	        <div class="col-md-offset-4 col-md-4 col-sm-offset-3 col-sm-6">
+		        <div class="progress">
+		          <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
+		            <span style="color:black">HTML / CSS (60%)</span>
+		          </div>
+		        </div>
+			      <div class="progress">
+		          <div class="progress-bar progress-bar-warning progress-bar-striped" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100" style="width: 55%">
+		            <span style="color:black">JS (55%)</span>
+		          </div>
+		        </div>
+		        <div class="progress">
+		          <div class="progress-bar progress-bar-info progress-bar-striped" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100" style="width: 65%">
+		            <span style="color:black">BootStrap (65%)</span>
+		          </div>
+		        </div>
+		        <div class="progress">
+		          <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100" style="width: 35%">
+		            <span style="color:black">PHP (35%)</span>
+		          </div>
+		        </div>
+		        <div class="progress">
+		          <div class="progress-bar progress-bar-danger progress-bar-striped" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 20%">
+		            <span style="color:black">Symfony 3 (20%)</span>
+		          </div>
+		        </div>
+	        </div>
+      	</div>
       </div>
     </div>
-    <h1 id="title3">Pour me joindre :</h1>
-    <div class="container-fluid col-md-12 col-sm-12 col-xs-12 text-center" id="contain">
+    <div class="container-fluid">
+    	<div class="row">
+    		<div id="title3">
+    			<h1 class="text-center">Pour me joindre :</h1>
+    		</div>
+    	</div>
+    </div>
+    <div class="container-fluid text-center" id="contain">
       <div class="row">
       <div class="col-md-6 col-sm-6" id="contact">
         <form action="#contain" onsubmit="return verifForm(this)" method="POST">
