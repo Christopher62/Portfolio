@@ -15,6 +15,8 @@ UPDATE 05/08/2017 :
 UPDATE 04/08/2017 : 
 - Added "Coming Soon" image -> empty images on part "PRO" 
 
+-----------------------------------------------------------
+
 (FR)
 
 Version 4 !
