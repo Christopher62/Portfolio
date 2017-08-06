@@ -7,7 +7,8 @@ Version 4 !
 COMING SOON :
 - Delete contact form (mail impossible to send)
 - Checking responsive and CSS + index.php files
-- Translation FRA/ENG (?)
+- Modification code in mentions.php file (table FRA/ENG)
+- Translation FRA/ENG
 
 UPDATE 05/08/2017 :
 - Modified code in index.php file (div)
@@ -25,7 +26,8 @@ Version 4 !
 PROCHAINEMENT :
 - Suppression formulaire de contact (mail impossible à envoyer)
 - Vérification reponsive & fichiers CSS + index.php
-- Traduction FRA/ENG (?)
+- Modification code fichier mentions.php (tableau FRA/ENG)
+- Traduction FRA/ENG 
 
 MAJ 05/08/2017 :
 - Code modifié dans le fichier index.php (div)
