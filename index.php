@@ -21,7 +21,7 @@
       </div>
       <div class="collapse navbar-collapse" id="myNav1">
         <ul class="nav navbar-nav navbar-right col-md-9">
-          <li><a id="acceuil" href="">accueil</a></li>
+          <li><a id="acceuil" href="#">accueil</a></li>
           <li><a href="#title1">portfolio</a></li>
           <li><a id="apropos" href="#title2">a propos</a></li>
           <li><a href="#title3">contact</a></li>
@@ -29,6 +29,7 @@
       </div>
     </div>
   </nav>
+  <div id="#"><!-- Retour en haut / Back to top --></div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-offset-1 col-xs-10 text-center" id="home">
