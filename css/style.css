@@ -32,6 +32,10 @@ body{
 #home{
   margin-top: 50px;
 }
+#ENG, #FRA{
+  border-radius: 0;
+  margin-top: 4px;
+}
 #home p, #about p{
   font-size: 1.5em;
   color: #FFF;

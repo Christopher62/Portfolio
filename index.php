@@ -33,6 +33,8 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-offset-1 col-xs-10 text-center" id="home">
+        	<button id="ENG" type="button" class="btn" onclick="EN()">ENG (Change in English)</button>
+          <button id="FRA" type="button" class="btn" onclick="window.location.reload()">FRA (Recharger la page)</button>
           <p>Bienvenue sur mon portfolio, il a été créé au cours de la formation Simplon de Boulogne-Sur-Mer (promo #2).</p>
           <p>Je suis apprenant en Développement Front-End.</p>
           <p>Bonne visite !</p>
