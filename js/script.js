@@ -1,4 +1,4 @@
-$(window).scroll(function() {
+﻿$(window).scroll(function() {
     if ($(this).scrollTop() >= 100) {
         $('#toTop').fadeIn(200);
     } else {
@@ -200,7 +200,7 @@ function EN(){
   document.getElementById("btn4").innerHTML = "Back";
   document.getElementById('descr7').innerHTML = "Exo in PHP !";
   document.getElementById("title2").innerHTML = "About Me :";
-  document.getElementById('pres').innerHTML = "Hello, I'm Christopher, I'm 21 years old and I live in Boulogne-Sur-Mer.<br>I followed a training (Oct 2016 - June 2017) in <a href='http://simplon.co/' target='_blank'>Simplon.co</a> Boulogne-Sur-Mer => 6 months training in web development.<br>Skills assessment :";
+  document.getElementById('pres').innerHTML = "Hello, I'm Christopher, I'm 21 years old and I live in Boulogne-Sur-Mer.<br>I followed a training (Oct 2016 - June 2017) in <a id='a_pres' href='http://simplon.co/' target='_blank'>Simplon.co</a> Boulogne-Sur-Mer => 6 months training in web development.<br>Skills assessment :";
   document.getElementById("a_mentions").innerHTML = "Legal Notice";
   document.getElementById("ps").innerHTML = "You can back to top with fixed icon (arrow in right)";
 }
