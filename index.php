@@ -166,9 +166,9 @@
     <div class="container-fluid">
       <div class="row">
       	<div class="col-xs-offset-1 col-xs-10 text-center" id="about">
-	        <p>Bonjour, je m'appel Christopher, je suis âgé de 21 ans et je réside à Boulogne Sur Mer.</p>
-	        <p>J'ai suivi une formation (Oct 2016 - Juin 2017) à <a id="a_pres" href="http://simplon.co/" target="_blank">Simplon.co</a> Boulogne-Sur-Mer => formation de 6 mois dans le développement web.</p>
-	        <p>Bilan des compétences :</p>
+	        <p id="pres">Bonjour, je m'appel Christopher, je suis âgé de 21 ans et je réside à Boulogne Sur Mer.<br>
+	        J'ai suivi une formation (Oct 2016 - Juin 2017) à <a id="a_pres" href="http://simplon.co/" target="_blank">Simplon.co</a> Boulogne-Sur-Mer => formation de 6 mois dans le développement web.<br>
+	        Bilan des compétences :</p>
 	        <div class="col-md-offset-4 col-md-4 col-sm-offset-3 col-sm-6">
 		        <div class="progress">
 		          <div class="progress-bar progress-bar-success progress-bar-striped" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%">
