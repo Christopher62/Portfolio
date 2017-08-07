@@ -21,9 +21,9 @@
       </div>
       <div class="collapse navbar-collapse" id="myNav1">
         <ul class="nav navbar-nav navbar-right col-md-9">
-          <li><a href="">home</a></li>
+          <li><a id="acceuil" href="">accueil</a></li>
           <li><a href="#title1">portfolio</a></li>
-          <li><a href="#title2">about</a></li>
+          <li><a id="apropos" href="#title2">a propos</a></li>
           <li><a href="#title3">contact</a></li>
         </ul>
       </div>
@@ -73,7 +73,7 @@
         <img src="images/JS/palindrome.png">
         <img src="images/BootStrap/Cap1.png">
         <img src="images/PHP-SQL/uploadsql2.png">
-        <p style="color:#FFF; text-align:center">Challenge en HTML & JS, Crea en BootStrap, Exo en PHP !</p>
+        <p id="descr1" class="text-center" style="color:#FFF">Challenge en HTML & JS, Crea en BootStrap, Exo en PHP !</p>
       </div>
     </div>
     <div class="container-fluid" id="PRO">
@@ -82,12 +82,12 @@
         <img src="images/PRO/AEICW2.png">
         <img src="images/PRO/AEICW3.png">
         <img src="images/PRO/AEICW4.png">
-        <p style="color:#FFF; text-align:center">Projet pour l'Asso AEICW (Stage) ! Image(s) qui apparaît au "clic" & qui redirige vers le site au "double-clique" !</p>
+        <p id="descr2" class="text-center" style="color:#FFF">Projet pour l'Asso AEICW (Stage) ! Image(s) qui apparaît au "clic" & qui redirige vers le site au "double-clique" !</p>
         <img src="images/PRO/CMS.png">
         <img src="images/PRO/CMS.png">
         <img src="images/PRO/CMS.png">
         <img src="images/PRO/CMS.png">
-        <p style="color:#FFF; text-align:center">A Venir ! En cours : site-vitrine pour la boulangerie Déjeuner Minute...</p>
+        <p id="descr3" class="text-center" style="color:#FFF">A Venir ! En cours : site-vitrine pour la boulangerie Déjeuner Minute...</p>
       </div>
     </div>
     <div class="container-fluid" id="PERSO" style="cursor:pointer">
@@ -100,7 +100,7 @@
     </div>
     <div class="container-fluid" id="HTMLCSS">
       <div class="row">
-        <button type="button" class="btn btn-danger quit2">Retour</button>
+        <button id="btn1" type="button" class="btn btn-danger quit2">Retour</button>
         <p><img src="images/img-logo/html-css.png"></p>
         <img src="images/HTML-CSS/ex5part1.png">
         <img src="images/HTML-CSS/ex5part2.png">
@@ -111,23 +111,23 @@
         <img src="images/HTML-CSS/image2.png">
         <img src="images/HTML-CSS/image3.png">
         <img src="images/HTML-CSS/image4.png">
-        <p style="color:#FFF; text-align:center">Challenge & Exo en HTML / CSS !</p>
+        <p id="descr4" class="text-center" style="color:#FFF">Challenge & Exo en HTML / CSS !</p>
       </div>
     </div>
     <div class="container-fluid" id="JS">
       <div class="row">
-        <button type="button" class="btn btn-danger quit2">Retour</button>
+        <button id="btn2" type="button" class="btn btn-danger quit2">Retour</button>
         <p><img src="images/img-logo/js-logo.png"></p>
         <img src="images/JS/chaud.png">
         <img src="images/JS/bravo.png">
         <img src="images/JS/mot.png">
         <img src="images/JS/palindrome.png">
-        <p style="color:#FFF; text-align:center">Challenge & Exo en JavaScript !</p>
+        <p id="descr5" class="text-center" style="color:#FFF">Challenge & Exo en JavaScript !</p>
       </div>
     </div>
     <div class="container-fluid" id="BootStrap">
       <div class="row">
-        <button type="button" class="btn btn-danger quit2">Retour</button>
+        <button id="btn3" type="button" class="btn btn-danger quit2">Retour</button>
         <p><img src="images/img-logo/bootstrap.png"></p>
         <img src="images/BootStrap/Cap1.png">
         <img src="images/BootStrap/Cap2.png">
@@ -139,24 +139,24 @@
         <img src="images/BootStrap/Cap8.png">
         <img src="images/BootStrap/Cap9.png">
         <img src="images/BootStrap/Cap10.png">
-        <p style="color:#FFF; text-align:center">Reprod, crea, challenge... en BootStrap !</p>
+        <p id="descr6" class="text-center" style="color:#FFF">Reprod, crea, challenge... en BootStrap !</p>
       </div>
     </div>
     <div class="container-fluid" id="PHPSQL">
       <div class="row">
-        <button type="button" class="btn btn-danger quit2">Retour</button>
+        <button id="btn4" type="button" class="btn btn-danger quit2">Retour</button>
         <p><img src="images/img-logo/php.png"></p>
         <img src="images/PHP-SQL/phpexo3.png">
         <img src="images/PHP-SQL/phpexo3_2.png">
         <img src="images/PHP-SQL/uploadsql.png">
         <img src="images/PHP-SQL/uploadsql2.png">
-        <p style="color:#FFF; text-align:center">Exo en PHP !</p>
+        <p id="descr7" class="text-center" style="color:#FFF">Exo en PHP !</p>
       </div>
     </div>
     <div class="container-fluid">
       <div class="row">
-      	<div id="title2">
-      		<h1 class="text-center">A propos de moi :</h1>
+      	<div class="text-center" id="title2" style="font-size: 36px"> <!-- (FR) style pour la traduction en anglais / (EN) style for english translation -->
+      		<h1>A propos de moi :</h1>
       	</div>
       </div>
     </div>
@@ -199,7 +199,7 @@
     <div class="container-fluid">
     	<div class="row">
     		<div id="title3">
-    			<h1 class="text-center">Pour me joindre :</h1>
+    			<h1 class="text-center">Contact :</h1>
     		</div>
     	</div>
     </div>
@@ -247,7 +247,7 @@
       <div class="row">
         <div class="text-center" id="footer">
           <footer>
-            <p>&copy Christopher Dachicourt - 2017 - <a href="page/mentions.php">Mentions Légales</a></p>
+            <p>&copy Christopher Dachicourt - 2017 - <a id="a_mentions" href="page/mentions.php">Mentions Légales</a></p>
             <p id="ps">Post-scriptum : Vous pouvez retourner en haut de page via le bouton fixé (flèche à droite)</p>
           </footer>
         </div>
