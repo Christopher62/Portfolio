@@ -2,26 +2,16 @@
 <html>
 	<head>
 		<meta charset="utf-8">
-		<title>Mentions Légales - DéjMinute</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Mentions Légales - Portfolio de Christopher D.</title>
 		<link rel="stylesheet" href="../css/bootstrap.min.css">
+		<link rel="stylesheet" href="../css/style.css">
 		<style media="screen">
-		#nav1{
-		  background-color: #000000;
-		  border: none;
+		body{
+			background-color: #FFF;
 		}
-		#nav1 a {
-		  text-decoration: none;
-		  text-transform: uppercase;
-		  color: orange;
-		  font-weight: bold;
-		  padding-right: 90px;
-		  font-size: 15px;
-		  outline: none;
-		}
-		h1{
-		  margin-top: 80px;
-		  margin-left: 1%;
-		  margin-bottom: 15px;
+		#mentions{
+			margin-top: 60px;
 		}
 		#mentions p{
 		  padding: 0;
@@ -35,34 +25,36 @@
 		</style>
 	</head>
 	<body>
-	<nav class="navbar navbar-default navbar-fixed-top" id="nav1">
+	<nav class="navbar navbar-default navbar-fixed-top" id="nav1B">
 	    <div class="container-fluid">
 	      <div class="navbar-header">
-		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNav1" aria-expanded="false">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNav1b" aria-expanded="false">
 		  <span class="sr-only">Toggle navigation</span>
 		  <span class="icon-bar"></span>
 		  <span class="icon-bar"></span>
 		  <span class="icon-bar"></span>
 		</button>
 	      </div>
-	      <div class="collapse navbar-collapse" id="myNav1">
-		<ul class="nav navbar-nav navbar-right col-md-8">
-		  <li><a href="#">mentions légales</a></li>
-		  <li><a href="../index.php">retour</a></li>
+	      <div class="collapse navbar-collapse" id="myNav1b">
+		<ul class="nav navbar-nav navbar-right col-md-9">
+		  <li><a href="#">mentions légales / legal notice</a></li>
+		  <li><a href="../index.php">retour / back</a></li>
 		</ul>
 	      </div>
 	    </div>
   	</nav>
-		<h1>Mentions Légales</h1>
 		<div class="container-fluid">
-			<div class="row col-md-12 col-sm-12 col-xs-12" id="mentions">
-				<p><strong>Site réalisé par :</strong><br>
-				Christopher Dachicourt</p><br>
-				<p><strong>Ressources utilisées :</strong><br>
-				<li>- Google Maps > map intégrée sur le site</li>
-				<li>- Font-Awesome > icônes</li>
-				<li>- Images > Captures des projets</li>
-				<li>- Bootstrap 3 + Jquery : mise en page & animation du site</li></p>
+			<div class="row">
+				<div class="col-md-12 col-sm-12 col-xs-12" id="mentions">
+					<p><strong>Site réalisé par :</strong><br>
+					Christopher Dachicourt</p><br>
+					<p><strong>Ressources utilisées :</strong><br>
+					<li>- Google Maps > map intégrée sur le site</li>
+					<li>- Font-Awesome > icônes</li>
+					<li>- Images > Captures des projets</li>
+					<li>- Bootstrap 3 + Jquery : mise en page & animation du site</li></p>
+					<p class="text-center"><strong>FR : Traduction en cours / EN : Translation in progress !</strong></p>
+				</div>
 			</div>
 		</div>
 		  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>

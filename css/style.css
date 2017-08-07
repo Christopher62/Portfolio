@@ -5,11 +5,11 @@ html body{
 body{
   background-color: #353535;
 }
-#nav1{
+#nav1, #nav1B{
   background-color: #000000;
   border: none;
 }
-#nav1 a {
+#nav1 a, #nav1B a {
   text-decoration: none;
   text-transform: uppercase;
   color: orange;
