@@ -8,6 +8,7 @@ COMING SOON :
 - Delete contact form (mail impossible to send)
 - Checking responsive and CSS + index.php files
 - Modification code in mentions.php file (table FRA/ENG)
+- Reorganization contact div (move social network icons to this div after delete form contact) 
 
 UPDATE 07/08/2017 :
 - Translation FRA/ENG (Translated with google !)
@@ -29,6 +30,7 @@ PROCHAINEMENT :
 - Suppression formulaire de contact (mail impossible à envoyer)
 - Vérification reponsive & fichiers CSS + index.php
 - Modification code fichier mentions.php (tableau FRA/ENG)
+- Réorganisation div contact (déplacement des icones réseaux sociaux vers cette div après suppression du formulaire de contact)
 
 MAJ 07/08/2017 :
 - Traduction FRA/ENG (traduit avec google !)
