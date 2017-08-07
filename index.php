@@ -21,7 +21,7 @@
       </div>
       <div class="collapse navbar-collapse" id="myNav1">
         <ul class="nav navbar-nav navbar-right col-md-9">
-          <li><a id="acceuil" href="#">accueil</a></li>
+          <li><a id="accueil" href="#">accueil</a></li>
           <li><a href="#title1">portfolio</a></li>
           <li><a id="apropos" href="#title2">a propos</a></li>
           <li><a href="#title3">contact</a></li>
@@ -51,7 +51,7 @@
     <div class="container-fluid">
       <div class="row">
       	<div class="col-md-offset-3 col-sm-offset-1" id="portfolio">
-      		<input type="button" class="bton" value="TOUT" id="toutbtn">
+      		<button type="button" class="bton" id="toutbtn">TOUT</button>
         	<input type="button" class="bton" value="PRO" id="probtn">
         	<input type="button" class="bton" value="PERSO" id="persobtn">
         	<i class="fa fa-times-circle fa-2x quit" aria-hidden="true"></i>

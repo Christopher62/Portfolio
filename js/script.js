@@ -180,3 +180,27 @@ $(function(){
         return false;
       }
     }
+function EN(){
+  document.getElementById("accueil").innerHTML = "home";
+  document.getElementById("apropos").innerHTML = "about";
+  document.getElementById("ENG").innerHTML = "EN (Page in English)";
+  document.getElementById("FRA").innerHTML = "FR (Reload the page)";
+  document.getElementById("p1").innerHTML = "Welcome to my portfolio, he was created during the training Simplon of Boulogne-Sur-Mer (promo #2).<br>I am a learner in Front-End development.<br>Good visit !";
+  document.getElementById("toutbtn").innerHTML = "ALL";
+  document.getElementById("toutbtn").style.marginLeft = "17.9%";
+  document.getElementById('descr1').innerHTML = "Challenge in HTML & JS, Crea in BootStrap, Exo in PHP !";
+  document.getElementById('descr2').innerHTML = "Project for Asso AEICW (Internship in company) ! Image(s) appear at the \"click\" & that redirects to the site to \"double-click\" !";
+  document.getElementById('descr3').innerHTML = "Coming Soon ! In progress : showcase site for the bakery Déjeuner Minute...";
+  document.getElementById("btn1").innerHTML = "Back";
+  document.getElementById('descr4').innerHTML = "Challenge & Exo in HTML / CSS !";
+  document.getElementById("btn2").innerHTML = "Back";
+  document.getElementById('descr5').innerHTML = "Challenge & Exo in JavaScript !";
+  document.getElementById("btn3").innerHTML = "Back";
+  document.getElementById('descr6').innerHTML = "Reprod, crea, challenge... in BootStrap !";
+  document.getElementById("btn4").innerHTML = "Back";
+  document.getElementById('descr7').innerHTML = "Exo in PHP !";
+  document.getElementById("title2").innerHTML = "About Me :";
+  document.getElementById('pres').innerHTML = "Hello, I'm Christopher, I'm 21 years old and I live in Boulogne-Sur-Mer.<br>I followed a training (Oct 2016 - June 2017) in <a href='http://simplon.co/' target='_blank'>Simplon.co</a> Boulogne-Sur-Mer => 6 months training in web development.<br>Skills assessment :";
+  document.getElementById("a_mentions").innerHTML = "Legal Notice";
+  document.getElementById("ps").innerHTML = "You can back to top with fixed icon (arrow in right)";
+}
