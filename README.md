@@ -5,11 +5,11 @@
 Version 4 !
 
 COMING SOON :
-- Checking responsive and CSS + index.php files
-- Reorganization contact div (move social network icons to this div after delete contact form) 
+- Checking responsive for tablets and mobile phones devices
 
 UPDATE 08/08/2017 :
 - Delete contact form (mail impossible to send)
+- Reorganization contact div (move social network icons to this div after delete contact form) 
 
 UPDATE 07/08/2017 :
 - Translation FRA/ENG (Translated with google !)
@@ -29,11 +29,11 @@ UPDATE 04/08/2017 :
 Version 4 !
 
 PROCHAINEMENT :
-- Vérification reponsive & fichiers CSS + index.php
-- Réorganisation div contact (déplacement des icones réseaux sociaux vers cette div après suppression du formulaire de contact)
+- Vérification reponsive pour les appareils tablettes & mobiles
 
 MAJ 08/08/2017 :
 - Suppression formulaire de contact (mail impossible à envoyer)
+- Réorganisation div contact (déplacement des icones réseaux sociaux vers cette div après suppression du formulaire de contact)
 
 MAJ 07/08/2017 :
 - Traduction FRA/ENG (traduit avec google !)

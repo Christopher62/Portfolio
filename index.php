@@ -217,16 +217,21 @@
 	        <p>christopher.dachicourt@gmail.com</p>
 	      </div>
 	      <p id="sn">Sur les réseaux sociaux :</p>
-	      <p><strong>Réorganisation en cours / Reorganization in progress</strong></p>
-      </div>
-    </div>
-    <div class="container-fluid">
-      <div class="row">
-        <div class="sn">
+        <div class="col-md-3 sn">
           <a href="https://www.facebook.com/christopher.dachicourt/" target="_blank"><i class="fa fa-facebook-official fa-2x" aria-hidden="true"></i></a>
-          <a href="https://twitter.com/ChrisSimplon2/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+          <p>Facebook</p>
+        </div>
+        <div class="col-md-3 sn">
+        	<a href="https://twitter.com/ChrisSimplon2/" target="_blank"><i class="fa fa-twitter fa-2x" aria-hidden="true"></i></a>
+        	<p>Twitter</p>
+        </div>
+        <div class="col-md-3 sn">
           <a href="https://www.linkedin.com/in/christopher-dachicourt-144882110/" target="_blank"><i class="fa fa-linkedin fa-2x" aria-hidden="true"></i></a>
-          <a href="https://github.com/Christopher62/" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+        	<p>LinkedIn</p>
+        </div>
+        <div class="col-md-3 sn">
+        	<a href="https://github.com/Christopher62/" target="_blank"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+        	<p>GitHub</p>
         </div>
       </div>
     </div>
