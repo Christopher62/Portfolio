@@ -6,6 +6,7 @@ Version 4 !
 
 COMING SOON :
 - Checking responsive for tablets and mobile phones devices
+- Delete back button "perso" part (replacement by icon)
 
 UPDATE 08/08/2017 :
 - Delete contact form (mail impossible to send)
@@ -30,10 +31,11 @@ Version 4 !
 
 PROCHAINEMENT :
 - Vérification reponsive pour les appareils tablettes & mobiles
+- Suppression bouton de retour partie "perso" (remplacement par une icône)
 
 MAJ 08/08/2017 :
 - Suppression formulaire de contact (mail impossible à envoyer)
-- Réorganisation div contact (déplacement des icones réseaux sociaux vers cette div après suppression du formulaire de contact)
+- Réorganisation div contact (déplacement des icônes réseaux sociaux vers cette div après suppression du formulaire de contact)
 
 MAJ 07/08/2017 :
 - Traduction FRA/ENG (traduit avec google !)
