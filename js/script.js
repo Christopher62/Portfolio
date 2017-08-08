@@ -128,58 +128,6 @@ $(function(){
     $(this).hide();
   });
 });
-    function couleur(champ, erreur){
-      if(erreur)
-        champ.style.borderColor = "red";
-      else
-        champ.style.borderColor = "green";
-    }
-    function verifName(champ){
-      var regex = /^[a-zA-Z]+[a-z]{1,}$/;
-      if(!regex.test(champ.value) || champ.value == ""){
-        alert('Le prénom ne doit pas comporter de chiffre ! / Merci de compléter ce champ');
-        couleur(champ, true);
-        return false;
-      }else{
-        couleur(champ, false);
-        return true;
-      }
-    }
-    function verifSubject(champ){
-      var regex2 = /^[a-zA-Z]$/;
-      if(champ.value == ""){
-        alert("Veuillez saisair le sujet de votre message !");
-        couleur(champ, true);
-        return false;
-      }else{
-        couleur(champ, false);
-        return true;
-      }
-    }
-    function verifMail(champ){
-      var regex3 = /^[a-zA-Z0-9._-]+@[a-z0-9._-]{2,}\.[a-z]{2,3}$/;
-      if(!regex3.test(champ.value)){
-        alert("Veuillez saisir un e-mail valide !");
-        couleur(champ, true);
-        return false;
-      }else{
-        couleur(champ, false);
-        return true;
-      }
-    }
-
-    function verifForm(f){
-      var nameOk = verifName(f.name);
-      var subjectOk = verifSubject(f.subject);
-      var mailOk = verifMail(f.email);
-      if(nameOk && subjectOk && mailOk){
-        alert("Votre message a bien été envoyé ! / Rappel : Formulaire non fonctionnel !");
-        return true;
-      }else{
-        alert("Veuillez vérfier les champs de saisies en bordure rouge !");
-        return false;
-      }
-    }
 function EN(){
   document.getElementById("accueil").innerHTML = "home";
   document.getElementById("apropos").innerHTML = "about";

@@ -29,7 +29,7 @@
       </div>
     </div>
   </nav>
-  <div id="#"><!-- Retour en haut / Back to top --></div>
+  <div id="#"><!-- Retour en haut (div "home") / Back to top ("home" div) --></div>
     <div class="container-fluid">
       <div class="row">
         <div class="col-xs-offset-1 col-xs-10 text-center" id="home">
@@ -209,27 +209,10 @@
     <div class="container-fluid text-center" id="contain">
       <div class="row">
       <div class="col-md-6 col-sm-6" id="contact">
-        <form action="#contain" onsubmit="return verifForm(this)" method="POST">
-          <div class="form-group">
-            <input id="name" name="name" type="text" placeholder="Nom" class="form-control" onblur="verifName(this)" autocomplete="off">
-          </div>
-          <div class="form-group">
-            <input id="subject" name="subject" type="text" placeholder="Objet du message" class="form-control" onblur="verifSubject(this)" autocomplete="off">
-          </div>
-          <div class="form-group">
-            <input id="email" name="email" type="text" placeholder="E-mail" class="form-control" onblur="verifMail(this)" autocomplete="off">
-          </div>
-          <div class="form-group">
-            <textarea class="form-control" id="message" name="message" placeholder="Formulaire non fonctionnel pour l'envoi des mails ! ..." rows="5" autocomplete="off"></textarea>
-          </div>
-          <div class="form-group">
-            <div class="text-right">
-              <button type="submit" id="sub1">Submit</button>
-            </div>
-          </div>
-        </form>
+				<p><strong>Réorganisation en cours / Reorganization in progress</strong></p>
       </div>
       <div class="col-md-6 col-sm-6" id="adress">
+      	<p><strong>Réorganisation en cours / Reorganization in progress</strong></p>
         <li><i class="fa fa-map-marker" aria-hidden="true"></i> Boulogne-Sur-Mer, Haut-de-France, France</li>
         <li><i class="fa fa-envelope" aria-hidden="true"></i> christopher.dachicourt@gmail.com</li>
         <div id="divnoire"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d40406.95430349443!2d1.5710286544264254!3d50.73042695901836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dc2c40b157a363%3A0x40af13e8163fb30!2s62200+Boulogne-sur-Mer!5e0!3m2!1sfr!2sfr!4v1489154671671" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe></div>
