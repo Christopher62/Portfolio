@@ -6,7 +6,7 @@ Version 4 !
 
 COMING SOON :
 - Checking responsive and CSS + index.php files
-- Reorganization contact div (move social network icons to this div after delete form contact) 
+- Reorganization contact div (move social network icons to this div after delete contact form) 
 
 UPDATE 08/08/2017 :
 - Delete contact form (mail impossible to send)
