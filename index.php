@@ -103,7 +103,7 @@
     </div>
     <div class="container-fluid" id="HTMLCSS">
       <div class="row">
-        <button id="btn1" type="button" class="btn btn-danger quit2">Retour</button>
+        <i class="fa fa-times-circle fa-2x quit2" aria-hidden="true"></i>
         <p><img src="images/img-logo/html-css.png"></p>
         <img src="images/HTML-CSS/ex5part1.png">
         <img src="images/HTML-CSS/ex5part2.png">
@@ -119,7 +119,7 @@
     </div>
     <div class="container-fluid" id="JS">
       <div class="row">
-        <button id="btn2" type="button" class="btn btn-danger quit2">Retour</button>
+        <i class="fa fa-times-circle fa-2x quit2" aria-hidden="true"></i>
         <p><img src="images/img-logo/js-logo.png"></p>
         <img src="images/JS/chaud.png">
         <img src="images/JS/bravo.png">
@@ -130,7 +130,7 @@
     </div>
     <div class="container-fluid" id="BootStrap">
       <div class="row">
-        <button id="btn3" type="button" class="btn btn-danger quit2">Retour</button>
+        <i class="fa fa-times-circle fa-2x quit2" aria-hidden="true"></i>
         <p><img src="images/img-logo/bootstrap.png"></p>
         <img src="images/BootStrap/Cap1.png">
         <img src="images/BootStrap/Cap2.png">
@@ -147,7 +147,7 @@
     </div>
     <div class="container-fluid" id="PHPSQL">
       <div class="row">
-        <button id="btn4" type="button" class="btn btn-danger quit2">Retour</button>
+        <i class="fa fa-times-circle fa-2x quit2" aria-hidden="true"></i>
         <p><img src="images/img-logo/php.png"></p>
         <img src="images/PHP-SQL/phpexo3.png">
         <img src="images/PHP-SQL/phpexo3_2.png">

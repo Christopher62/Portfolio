@@ -6,6 +6,8 @@ Version 4 !
 
 COMING SOON :
 - Checking responsive for tablets and mobile phones devices
+
+UPDATE 09/08/2017 :
 - Delete back button "perso" part (replacement by icon)
 
 UPDATE 08/08/2017 :
@@ -31,6 +33,8 @@ Version 4 !
 
 PROCHAINEMENT :
 - Vérification reponsive pour les appareils tablettes & mobiles
+
+MAJ 09/08/2017 :
 - Suppression bouton de retour partie "perso" (remplacement par une icône)
 
 MAJ 08/08/2017 :

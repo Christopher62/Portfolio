@@ -58,9 +58,9 @@ body{
   cursor: pointer;
 }
 .quit2{
-  left: 45%;
+  left: 63.5%;
   margin-top: 0.2%;
-  color: #FFF;
+  font-size: 1.4em!important;
 }
 #Affichage img:nth-child(1), #Affichage img:nth-child(5), #TOUT img:nth-child(1), #TOUT img:nth-child(5), #PRO img:nth-child(1), #PRO img:nth-child(6), #PERSO img:nth-child(1){
   margin-left: 8%;
