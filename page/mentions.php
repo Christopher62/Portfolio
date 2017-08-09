@@ -6,43 +6,23 @@
 		<title>Mentions Légales - Portfolio de Christopher D.</title>
 		<link rel="stylesheet" href="../css/bootstrap.min.css">
 		<link rel="stylesheet" href="../css/style.css">
-		<style media="screen">
-		body{
-			background-color: #FFF;
-		}
-		#mentions{
-			margin-top: 60px;
-		}
-		.mentions-table th{
-			text-align: center;
-		}
-		.mentions-table p{
-		  padding: 0;
-		  margin: 0;
-		  font-size: 15px;
-		}
-		.mentions-table li{
-		  list-style-type: none;
-		  font-size: 15px;
-		}
-		</style>
 	</head>
-	<body>
-	<nav class="navbar navbar-default navbar-fixed-top" id="nav1B">
+	<body id="body_mentions">
+		<nav class="navbar navbar-default navbar-fixed-top" id="nav1B">
 	    <div class="container-fluid">
 	      <div class="navbar-header">
-		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNav1b" aria-expanded="false">
-		  <span class="sr-only">Toggle navigation</span>
-		  <span class="icon-bar"></span>
-		  <span class="icon-bar"></span>
-		  <span class="icon-bar"></span>
-		</button>
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNav1b" aria-expanded="false">
+					  <span class="sr-only">Toggle navigation</span>
+					  <span class="icon-bar"></span>
+					  <span class="icon-bar"></span>
+					  <span class="icon-bar"></span>
+					</button>
 	      </div>
 	      <div class="collapse navbar-collapse" id="myNav1b">
-		<ul class="nav navbar-nav navbar-right col-md-9">
-		  <li><a href="#">mentions légales / legal notice</a></li>
-		  <li><a href="../index.php">retour / back</a></li>
-		</ul>
+					<ul class="nav navbar-nav navbar-right col-md-9">
+					  <li><a href="#">mentions légales / legal notice</a></li>
+					  <li><a href="../index.php">retour / back</a></li>
+					</ul>
 	      </div>
 	    </div>
   	</nav>

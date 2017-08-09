@@ -122,6 +122,24 @@ body{
   margin: 0;
   padding: 2px;
 }
+#body_mentions{
+  background-color: #FFF;
+}
+#mentions{
+  margin-top: 60px;
+}
+.mentions-table th{
+  text-align: center;
+}
+.mentions-table p{
+  padding: 0;
+  margin: 0;
+  font-size: 15px;
+}
+.mentions-table li{
+  list-style-type: none;
+  font-size: 15px;
+}
 /* Responsive version tablette */
 @media screen and (max-width: 600px){
   #portfolio{
