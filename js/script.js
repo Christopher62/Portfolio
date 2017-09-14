@@ -10,9 +10,11 @@ $('#toTop').click(function() {
         scrollTop : 0
     }, 500);
 });
+// FR : div cachées / EN : hidden div
 $(function(){
   $(".quit, #PERSO, #HTMLCSS, #JS, #BootStrap, #PHPSQL").hide();
 });
+// FR : afficher div "TOUT" / EN : show "ALL" div
 $(function(){
     $("#TOUT").hide();
     $("#toutbtn").click(function(){
@@ -23,6 +25,7 @@ $(function(){
       $(".quit").show();
     });
 });
+// FR : cacher div "TOUT" / EN : hide "ALL" div
 $(function(){
   $(".quit").click(function(){
     $("#Affichage").fadeIn();
@@ -30,6 +33,7 @@ $(function(){
     $(this).fadeOut();
   });
 });
+// FR : afficher div "PRO" / EN : show "PRO" div
 $(function(){
     $("#PRO").hide();
     $("#probtn").click(function(){
@@ -40,6 +44,7 @@ $(function(){
       $(".quit").show();
     });
 });
+// FR : cacher div "PRO" / EN : hide "PRO" div
 $(function(){
   $(".quit").click(function(){
     $("#Affichage").fadeIn();
@@ -47,6 +52,7 @@ $(function(){
     $(this).fadeOut();
   });
 });
+// FR : afficher div "PERSO" / EN : show "PERSO" div
 $(function(){
     $("#PERSO").hide();
     $("#persobtn").click(function(){
@@ -57,6 +63,7 @@ $(function(){
       $(".quit").show();
     });
 });
+// FR : cacher div "PERSO" / EN : hide "PERSO" div
 $(function(){
   $(".quit").click(function(){
     $("#Affichage").fadeIn();
@@ -64,6 +71,7 @@ $(function(){
     $(this).hide();
   });
 });
+// FR : afficher div "HTMLCSS" & cacher div "PERSO" / EN : show "HTMLCSS" div & hide "PERSO" div
 $(function(){
     $("#imgHTML").click(function(){
       $("#PERSO").hide();
@@ -72,6 +80,7 @@ $(function(){
       $(".quit2").show();
     });
 });
+// FR : cacher div "HTMLCSS" & afficher div "PERSO" / EN : hide "HTMLCSS" div & show "PERSO" div
 $(function(){
   $(".quit2").click(function(){
     $("#PERSO").fadeIn();
@@ -80,6 +89,7 @@ $(function(){
     $(this).hide();
   });
 });
+// FR : afficher div "JS" & cacher div "PERSO" / EN : show "JS" div & hide "PERSO" div
 $(function(){
     $("#imgJS").click(function(){
       $("#PERSO").hide();
@@ -88,6 +98,7 @@ $(function(){
       $(".quit2").show();
     });
 });
+// FR : cacher div "JS" & afficher div "PERSO" / EN : hide "JS" div & show "PERSO" div
 $(function(){
   $(".quit2").click(function(){
     $("#PERSO").fadeIn();
@@ -96,6 +107,7 @@ $(function(){
     $(this).hide();
   });
 });
+// FR : afficher div "BootStrap" & cacher div "PERSO" / EN : show "BootStrap" div & hide "PERSO" div
 $(function(){
     $("#imgBS").click(function(){
       $("#PERSO").hide();
@@ -104,6 +116,7 @@ $(function(){
       $(".quit2").show();
     });
 });
+// FR : cacher div "BootStrap" & afficher div "PERSO" / EN : hide "BootStrap" div & show "PERSO" div
 $(function(){
   $(".quit2").click(function(){
     $("#PERSO").fadeIn();
@@ -112,6 +125,7 @@ $(function(){
     $(this).hide();
   });
 });
+// FR : afficher div "PHPSQL" & cacher div "PERSO" / EN : show "PHPSQL" div & hide "PERSO" div
 $(function(){
     $("#imgPHPSQL").click(function(){
       $("#PERSO").hide();
@@ -120,6 +134,7 @@ $(function(){
       $(".quit2").show();
     });
 });
+// FR : cacher div "PHPSQL" & afficher div "PERSO" / EN : hide "PHPSQL" div & show "PERSO" div
 $(function(){
   $(".quit2").click(function(){
     $("#PERSO").fadeIn();

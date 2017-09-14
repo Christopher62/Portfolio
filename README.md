@@ -6,6 +6,9 @@ Version 4 !
 
 COMING SOON :
 - Checking responsive for tablets and mobile phones devices
+- ...
+
+UPDATE 14/09/2017 :
 - Comments for understanding code of script.js file
 
 UPDATE 09/08/2017 :
@@ -34,6 +37,9 @@ Version 4 !
 
 PROCHAINEMENT :
 - Vérification reponsive pour les appareils tablettes & mobiles
+- ...
+
+MAJ 14/09/2017 :
 - Commentaires pour comprendre le code du fichier script.js
 
 MAJ 09/08/2017 :
