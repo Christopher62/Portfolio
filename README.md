@@ -6,6 +6,7 @@ Version 4 !
 
 COMING SOON :
 - Checking responsive for tablets and mobile phones devices
+- Delete icon "perso" part (button come back for better visibility)
 - ...
 
 UPDATE 14/09/2017 :
@@ -37,6 +38,7 @@ Version 4 !
 
 PROCHAINEMENT :
 - Vérification reponsive pour les appareils tablettes & mobiles
+- Suppression icône partie "perso" (le bouton revient pour une meilleur visibilité)
 - ...
 
 MAJ 14/09/2017 :
