@@ -11,7 +11,7 @@ COMING SOON :
 - ...
 
 UPDATE 17/09/2017 :
-- Modification "title1, title2, title3" div
+- Modification "title1, title2, title3, home" div
 
 UPDATE 14/09/2017 :
 - Comments for understanding code of script.js file
@@ -47,7 +47,7 @@ PROCHAINEMENT :
 - ...
 
 MAJ 17/09/2017 :
-- Modification div "title1, title2, title3"
+- Modification div "title1, title2, title3, home"
 
 MAJ 14/09/2017 :
 - Commentaires pour comprendre le code du fichier script.js
