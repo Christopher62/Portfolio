@@ -42,10 +42,8 @@
       </div>
     </div>
     <div class="container-fluid">
-      <div class="row">
-      	<div id="title1">
-      		<h1 class="text-center">Portfolio :</h1>
-      	</div>
+      <div class="row text-center">
+        <h1 id="title1">Portfolio :</h1>
       </div>
     </div>
     <div class="container-fluid">
@@ -157,10 +155,8 @@
       </div>
     </div>
     <div class="container-fluid">
-      <div class="row">
-      	<div class="text-center" id="title2" style="font-size: 36px"> <!-- (FR) style pour la traduction en anglais / (EN) style for english translation -->
-      		<h1>A propos de moi :</h1>
-      	</div>
+      <div class="row text-center">
+        <h1 id="title2">A propos de moi :</h1>
       </div>
     </div>
     <div class="container-fluid">
@@ -200,16 +196,14 @@
       </div>
     </div>
     <div class="container-fluid">
-    	<div class="row">
-    		<div id="title3">
-    			<h1 class="text-center">Contact :</h1>
-    		</div>
-    	</div>
+      <div class="row text-center">
+        <h1 id="title3">Contact :</h1>
+      </div>
     </div>
     <div class="container-fluid text-center" id="contain">
       <div class="row">
 	      <div class="col-md-6 col-sm-6" id="contact">
-	      	<i class="fa fa-map-marker fa-2x" aria-hidden="true"></i> 
+	      	<i class="fa fa-map-marker fa-2x" aria-hidden="true"></i>
 	      	<p>Boulogne-Sur-Mer, Haut-de-France, France</p>
 	      </div>
 	      <div class="col-md-6 col-sm-6" id="adress">

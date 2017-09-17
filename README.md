@@ -7,7 +7,11 @@ Version 4 !
 COMING SOON :
 - Checking responsive for tablets and mobile phones devices
 - Delete icon "perso" part (button come back for better visibility)
+- Reduction / Modification code script.js file (functions jquery)
 - ...
+
+UPDATE 17/09/2017 :
+- Modification "title1, title2, title3" div
 
 UPDATE 14/09/2017 :
 - Comments for understanding code of script.js file
@@ -39,7 +43,11 @@ Version 4 !
 PROCHAINEMENT :
 - Vérification reponsive pour les appareils tablettes & mobiles
 - Suppression icône partie "perso" (le bouton revient pour une meilleur visibilité)
+- Reduction / Modification du code fichier script.js (fonctions jquery)
 - ...
+
+MAJ 17/09/2017 :
+- Modification div "title1, title2, title3"
 
 MAJ 14/09/2017 :
 - Commentaires pour comprendre le code du fichier script.js
