@@ -1,14 +1,15 @@
-﻿$(window).scroll(function() {
-    if ($(this).scrollTop() >= 100) {
-        $('#toTop').fadeIn(200);
-    } else {
-        $('#toTop').fadeOut(200);
-    }
+// FR : retour en haut de page / back to top
+$(window).scroll(function() {
+  if ($(this).scrollTop() >= 100) {
+    $('#toTop').fadeIn(200);
+  } else {
+    $('#toTop').fadeOut(200);
+  }
 });
 $('#toTop').click(function() {
-    $('body,html').animate({
-        scrollTop : 0
-    }, 500);
+  $('body,html').animate({
+    scrollTop : 0
+  }, 500);
 });
 // FR : div cachées / EN : hidden div
 $(function(){
@@ -16,14 +17,14 @@ $(function(){
 });
 // FR : afficher div "TOUT" / EN : show "ALL" div
 $(function(){
-    $("#TOUT").hide();
-    $("#toutbtn").click(function(){
-      $("#Affichage").fadeOut();
-      $("#PRO").fadeOut();
-      $("#PERSO").fadeOut();
-      $("#TOUT").fadeIn();
-      $(".quit").show();
-    });
+  $("#TOUT").hide();
+  $("#toutbtn").click(function(){
+    $("#Affichage").fadeOut();
+    $("#PRO").fadeOut();
+    $("#PERSO").fadeOut();
+    $("#TOUT").fadeIn();
+    $(".quit").show();
+  });
 });
 // FR : cacher div "TOUT" / EN : hide "ALL" div
 $(function(){
@@ -35,14 +36,14 @@ $(function(){
 });
 // FR : afficher div "PRO" / EN : show "PRO" div
 $(function(){
-    $("#PRO").hide();
-    $("#probtn").click(function(){
-      $("#Affichage").fadeOut();
-	    $("#TOUT").fadeOut();
-	    $("#PERSO").fadeOut();
-      $("#PRO").fadeIn();
-      $(".quit").show();
-    });
+  $("#PRO").hide();
+  $("#probtn").click(function(){
+    $("#Affichage").fadeOut();
+    $("#TOUT").fadeOut();
+    $("#PERSO").fadeOut();
+    $("#PRO").fadeIn();
+    $(".quit").show();
+  });
 });
 // FR : cacher div "PRO" / EN : hide "PRO" div
 $(function(){
@@ -54,14 +55,14 @@ $(function(){
 });
 // FR : afficher div "PERSO" / EN : show "PERSO" div
 $(function(){
-    $("#PERSO").hide();
-    $("#persobtn").click(function(){
-      $("#Affichage").fadeOut();
-      $("#TOUT").fadeOut();
-      $("#PRO").fadeOut();
-      $("#PERSO").fadeIn();
-      $(".quit").show();
-    });
+  $("#PERSO").hide();
+  $("#persobtn").click(function(){
+    $("#Affichage").fadeOut();
+    $("#TOUT").fadeOut();
+    $("#PRO").fadeOut();
+    $("#PERSO").fadeIn();
+    $(".quit").show();
+  });
 });
 // FR : cacher div "PERSO" / EN : hide "PERSO" div
 $(function(){
@@ -73,12 +74,12 @@ $(function(){
 });
 // FR : afficher div "HTMLCSS" & cacher div "PERSO" / EN : show "HTMLCSS" div & hide "PERSO" div
 $(function(){
-    $("#imgHTML").click(function(){
-      $("#PERSO").hide();
-      $("#HTMLCSS").fadeIn();
-      $(".quit").hide();
-      $(".quit2").show();
-    });
+  $("#imgHTML").click(function(){
+    $("#PERSO").hide();
+    $("#HTMLCSS").fadeIn();
+    $(".quit").hide();
+    $(".quit2").show();
+  });
 });
 // FR : cacher div "HTMLCSS" & afficher div "PERSO" / EN : hide "HTMLCSS" div & show "PERSO" div
 $(function(){
@@ -91,12 +92,12 @@ $(function(){
 });
 // FR : afficher div "JS" & cacher div "PERSO" / EN : show "JS" div & hide "PERSO" div
 $(function(){
-    $("#imgJS").click(function(){
-      $("#PERSO").hide();
-      $("#JS").fadeIn();
-      $(".quit").hide();
-      $(".quit2").show();
-    });
+  $("#imgJS").click(function(){
+    $("#PERSO").hide();
+    $("#JS").fadeIn();
+    $(".quit").hide();
+    $(".quit2").show();
+  });
 });
 // FR : cacher div "JS" & afficher div "PERSO" / EN : hide "JS" div & show "PERSO" div
 $(function(){
@@ -109,12 +110,12 @@ $(function(){
 });
 // FR : afficher div "BootStrap" & cacher div "PERSO" / EN : show "BootStrap" div & hide "PERSO" div
 $(function(){
-    $("#imgBS").click(function(){
-      $("#PERSO").hide();
-      $("#BootStrap").fadeIn();
-      $(".quit").hide();
-      $(".quit2").show();
-    });
+  $("#imgBS").click(function(){
+    $("#PERSO").hide();
+    $("#BootStrap").fadeIn();
+    $(".quit").hide();
+    $(".quit2").show();
+  });
 });
 // FR : cacher div "BootStrap" & afficher div "PERSO" / EN : hide "BootStrap" div & show "PERSO" div
 $(function(){
@@ -127,12 +128,12 @@ $(function(){
 });
 // FR : afficher div "PHPSQL" & cacher div "PERSO" / EN : show "PHPSQL" div & hide "PERSO" div
 $(function(){
-    $("#imgPHPSQL").click(function(){
-      $("#PERSO").hide();
-      $("#PHPSQL").fadeIn();
-      $(".quit").hide();
-      $(".quit2").show();
-    });
+  $("#imgPHPSQL").click(function(){
+    $("#PERSO").hide();
+    $("#PHPSQL").fadeIn();
+    $(".quit").hide();
+    $(".quit2").show();
+  });
 });
 // FR : cacher div "PHPSQL" & afficher div "PERSO" / EN : hide "PHPSQL" div & show "PERSO" div
 $(function(){
@@ -143,7 +144,7 @@ $(function(){
     $(this).hide();
   });
 });
-
+// FR : traduction en anglais / EN : english translation
 function EN(){
   document.getElementById("accueil").innerHTML = "home";
   document.getElementById("apropos").innerHTML = "about";
