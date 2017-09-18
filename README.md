@@ -9,6 +9,7 @@ COMING SOON :
 - Delete icon "perso" part (button come back for better visibility)
 - Reduction / Modification code script.js file (functions jquery)
 - Modification "portfolio" div (button)
+- Delete images (with text) "perso" div -> replaced by languages images (logo)
 - ...
 
 UPDATE 18/09/2017 :
@@ -49,6 +50,7 @@ PROCHAINEMENT :
 - Suppression icône partie "perso" (le bouton revient pour une meilleur visibilité)
 - Reduction / Modification du code fichier script.js (fonctions jquery)
 - Modification div "portfolio" (bouton)
+- Suppression des images (avec texte) div "perso" -> Remplacées par les images du langage (logo)
 - ...
 
 MAJ 18/09/2017 :
