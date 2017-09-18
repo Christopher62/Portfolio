@@ -1,4 +1,4 @@
-// FR : retour en haut de page / back to top
+// FR : retour en haut de page / EN : back to top
 $(window).scroll(function() {
   if ($(this).scrollTop() >= 100) {
     $('#toTop').fadeIn(200);
