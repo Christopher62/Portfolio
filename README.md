@@ -8,7 +8,11 @@ COMING SOON :
 - Checking responsive for tablets and mobile phones devices
 - Delete icon "perso" part (button come back for better visibility)
 - Reduction / Modification code script.js file (functions jquery)
+- Modification "portfolio" div (button)
 - ...
+
+UPDATE 18/09/2017 :
+- Comments for EN and back to top functions (script.js -> jQuery)
 
 UPDATE 17/09/2017 :
 - Modification "title1, title2, title3, home" div
@@ -44,7 +48,11 @@ PROCHAINEMENT :
 - Vérification reponsive pour les appareils tablettes & mobiles
 - Suppression icône partie "perso" (le bouton revient pour une meilleur visibilité)
 - Reduction / Modification du code fichier script.js (fonctions jquery)
+- Modification div "portfolio" (bouton)
 - ...
+
+MAJ 18/09/2017 :
+- Commentaires pour les fonctions EN & retour en haut de page (script.js -> jQuery)
 
 MAJ 17/09/2017 :
 - Modification div "title1, title2, title3, home"
