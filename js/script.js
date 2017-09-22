@@ -71,7 +71,6 @@ $(function(){
   $("#imgHTML").click(function(){
     $("#PERSO").hide();
     $("#HTMLCSS").fadeIn();
-    $(".quit").hide();
     $(".quit2").show();
   });
 });
@@ -79,7 +78,6 @@ $(function(){
 $(function(){
   $(".quit2").click(function(){
     $("#PERSO").fadeIn();
-    $(".quit").show();
     $("#HTMLCSS").fadeOut();
     $(this).hide();
   });
@@ -89,7 +87,6 @@ $(function(){
   $("#imgJS").click(function(){
     $("#PERSO").hide();
     $("#JS").fadeIn();
-    $(".quit").hide();
     $(".quit2").show();
   });
 });
@@ -97,7 +94,6 @@ $(function(){
 $(function(){
   $(".quit2").click(function(){
     $("#PERSO").fadeIn();
-    $(".quit").show();
     $("#JS").fadeOut();
     $(this).hide();
   });
@@ -107,7 +103,6 @@ $(function(){
   $("#imgBS").click(function(){
     $("#PERSO").hide();
     $("#BootStrap").fadeIn();
-    $(".quit").hide();
     $(".quit2").show();
   });
 });
@@ -115,7 +110,6 @@ $(function(){
 $(function(){
   $(".quit2").click(function(){
     $("#PERSO").fadeIn();
-    $(".quit").show();
     $("#BootStrap").fadeOut();
     $(this).hide();
   });
@@ -125,7 +119,6 @@ $(function(){
   $("#imgPHPSQL").click(function(){
     $("#PERSO").hide();
     $("#PHPSQL").fadeIn();
-    $(".quit").hide();
     $(".quit2").show();
   });
 });
@@ -133,7 +126,6 @@ $(function(){
 $(function(){
   $(".quit2").click(function(){
     $("#PERSO").fadeIn();
-    $(".quit").show();
     $("#PHPSQL").fadeOut();
     $(this).hide();
   });
