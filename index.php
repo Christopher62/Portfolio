@@ -46,14 +46,18 @@
         <h1 id="title1">Portfolio :</h1>
       </div>
     </div>
-    <div class="container-fluid">
+    <div class="container-fluid" id="portfolio">
       <div class="row">
-      	<div class="col-md-offset-3 col-sm-offset-1" id="portfolio">
-      		<button type="button" class="bton" id="toutbtn">TOUT</button>
-        	<input type="button" class="bton" value="PRO" id="probtn">
-        	<input type="button" class="bton" value="PERSO" id="persobtn">
-        	<i class="fa fa-times-circle fa-2x quit" aria-hidden="true"></i>
-      	</div>
+        <div align="center">
+          <table class="table-bordered text-center project-table">
+            <tr>
+              <td><button type="button" class="btn" id="toutbtn">TOUT</button></td>
+              <td><input type="button" class="btn" value="PRO" id="probtn"></td>
+              <td><input type="button" class="btn" value="PERSO" id="persobtn"></td>
+              <td><input type="button" class="btn disabled quit" value="X" id="action"></td>
+            </tr>
+          </table>
+        </div>
       </div>
     </div>
     <div class="container-fluid" id="Affichage">
