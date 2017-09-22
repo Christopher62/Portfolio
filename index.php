@@ -51,9 +51,9 @@
         <div align="center">
           <table class="table-bordered text-center project-table">
             <tr>
-              <td><button type="button" class="btn" id="toutbtn">TOUT</button></td>
-              <td><input type="button" class="btn" value="PRO" id="probtn"></td>
-              <td><input type="button" class="btn" value="PERSO" id="persobtn"></td>
+              <td><button type="button" class="btn act-btn" id="toutbtn">TOUT</button></td>
+              <td><input type="button" class="btn act-btn" value="PRO" id="probtn"></td>
+              <td><input type="button" class="btn act-btn" value="PERSO" id="persobtn"></td>
               <td><input type="button" class="btn disabled quit" value="X" id="action"></td>
             </tr>
           </table>
