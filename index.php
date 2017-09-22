@@ -97,10 +97,10 @@
     </div>
     <div class="container-fluid" id="PERSO" style="cursor:pointer">
       <div class="row">
-        <img id="imgHTML" src="images/img-logo/persohtml.png">
-        <img id="imgJS" src="images/img-logo/persojs.png">
-        <img id="imgBS" src="images/img-logo/persobs.png">
-        <img id="imgPHPSQL" src="images/img-logo/persophpsql.png">
+        <img id="imgHTML" src="images/img-logo/html-css.png">
+        <img id="imgJS" src="images/img-logo/js-logo.png">
+        <img id="imgBS" src="images/img-logo/bootstrap.png">
+        <img id="imgPHPSQL" src="images/img-logo/php.png">
       </div>
     </div>
     <div class="container-fluid" id="HTMLCSS">
