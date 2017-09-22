@@ -13,7 +13,7 @@ $('#toTop').click(function() {
 });
 // FR : div cachées / EN : hidden div
 $(function(){
-  $(".quit, #PERSO, #HTMLCSS, #JS, #BootStrap, #PHPSQL").hide();
+  $("#PERSO, #HTMLCSS, #JS, #BootStrap, #PHPSQL").hide();
 });
 // FR : afficher div "TOUT" / EN : show "ALL" div
 $(function(){
@@ -23,7 +23,6 @@ $(function(){
     $("#PRO").fadeOut();
     $("#PERSO").fadeOut();
     $("#TOUT").fadeIn();
-    $(".quit").show();
   });
 });
 // FR : cacher div "TOUT" / EN : hide "ALL" div
@@ -31,7 +30,6 @@ $(function(){
   $(".quit").click(function(){
     $("#Affichage").fadeIn();
     $("#TOUT").fadeOut();
-    $(this).fadeOut();
   });
 });
 // FR : afficher div "PRO" / EN : show "PRO" div
@@ -42,7 +40,6 @@ $(function(){
     $("#TOUT").fadeOut();
     $("#PERSO").fadeOut();
     $("#PRO").fadeIn();
-    $(".quit").show();
   });
 });
 // FR : cacher div "PRO" / EN : hide "PRO" div
@@ -50,7 +47,6 @@ $(function(){
   $(".quit").click(function(){
     $("#Affichage").fadeIn();
     $("#PRO").fadeOut();
-    $(this).fadeOut();
   });
 });
 // FR : afficher div "PERSO" / EN : show "PERSO" div
@@ -61,7 +57,6 @@ $(function(){
     $("#TOUT").fadeOut();
     $("#PRO").fadeOut();
     $("#PERSO").fadeIn();
-    $(".quit").show();
   });
 });
 // FR : cacher div "PERSO" / EN : hide "PERSO" div
@@ -69,7 +64,6 @@ $(function(){
   $(".quit").click(function(){
     $("#Affichage").fadeIn();
     $("#PERSO").fadeOut();
-    $(this).hide();
   });
 });
 // FR : afficher div "HTMLCSS" & cacher div "PERSO" / EN : show "HTMLCSS" div & hide "PERSO" div

@@ -13,6 +13,7 @@ COMING SOON :
 
 UPDATE 22/09/2017 :
 - Modification "portfolio" div (buttons) -> buttons in a table (still in wip)
+- Update script.js (WIP)
 
 UPDATE 18/09/2017 :
 - Comments for EN and back to top functions (script.js -> jQuery)
@@ -56,6 +57,7 @@ PROCHAINEMENT :
 
 MAJ 22/09/2017 :
 - Modification div "portfolio" (boutons) -> boutons dans un tableau (toujours en cours)
+- Maj script.js (en cours)
 
 MAJ 18/09/2017 :
 - Commentaires pour les fonctions EN & retour en haut de page (script.js -> jQuery)
