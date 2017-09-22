@@ -8,12 +8,12 @@ COMING SOON :
 - Checking responsive for tablets and mobile phones devices
 - Delete icon "perso" part (button come back for better visibility)
 - Reduction / Modification code script.js file (functions jquery)
-- Delete images (with text) "perso" div -> replaced by languages images (logo)
 - ...
 
 UPDATE 22/09/2017 :
 - Modification "portfolio" div (buttons) -> buttons in a table (still in wip)
 - Update script.js (WIP)
+- Delete images (with text) "perso" div -> replaced by languages images (logo)
 
 UPDATE 18/09/2017 :
 - Comments for EN and back to top functions (script.js -> jQuery)
@@ -52,12 +52,12 @@ PROCHAINEMENT :
 - Vérification reponsive pour les appareils tablettes & mobiles
 - Suppression icône partie "perso" (le bouton revient pour une meilleur visibilité)
 - Reduction / Modification du code fichier script.js (fonctions jquery)
-- Suppression des images (avec texte) div "perso" -> Remplacées par les images du langage (logo)
 - ...
 
 MAJ 22/09/2017 :
 - Modification div "portfolio" (boutons) -> boutons dans un tableau (toujours en cours)
 - Maj script.js (en cours)
+- Suppression des images (avec texte) div "perso" -> Remplacées par les images du langage (logo)
 
 MAJ 18/09/2017 :
 - Commentaires pour les fonctions EN & retour en haut de page (script.js -> jQuery)
